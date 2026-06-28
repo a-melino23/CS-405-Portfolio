@@ -15,6 +15,7 @@ Throughout this course, I focused on writing code and documentation that conside
 | `CS405_4-2_UnitTesting.zip` | Project files for the unit testing milestone. |
 | `CS405_3-2_Security_Policy_Template.docx` | Security policy document created for the course project. |
 | `8-2 Journal - Portfolio Reflection.docx` | Final portfolio reflection journal. |
+| `CS 405 Project Two Presentation.pptx` | PowerPoint presentation of final project. |
 
 ## Course Overview
 
