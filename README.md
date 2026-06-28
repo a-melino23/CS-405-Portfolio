@@ -9,13 +9,17 @@ Throughout this course, I focused on writing code and documentation that conside
 | File | Description |
 | --- | --- |
 | `cs405_ModuleOne_MELINO.zip` | Module One project files and early secure coding work. |
+| `ModuleTwo_BufferOverflow.zip` | Module Two project files focused on buffer overflow vulnerabilities and secure coding concerns. |
+| `ModuleTwo_SQLInjection.zip` | Module Two project files focused on SQL injection risks and secure coding practices. |
+| `CS405_StaticCodeAnalysis.zip` | Static code analysis project files, including testing with tools such as Visual Studio analysis and Cppcheck. |
+| `CS405_Encryption.zip` | Encryption activity project files showing secure handling of encrypted output. |
 | `4-1 Activity - Exceptions.docx` | Documentation for the exception handling activity. |
 | `CS405_4-1_Exceptions.zip` | Project files for the exception handling activity. |
 | `4-2 Milestone - Unit Testing.docx` | Written milestone covering unit testing and secure testing practices. |
 | `CS405_4-2_UnitTesting.zip` | Project files for the unit testing milestone. |
-| `CS405_3-2_Security_Policy_Template.docx` | Security policy document created for the course project. |
+| `CS405_3-2_Security_Policy.docx` | Security policy document created for the Green Pace course project. |
+| `CS 405 Project Two Presentation.pptx` | PowerPoint presentation for the final Green Pace secure coding project. |
 | `8-2 Journal - Portfolio Reflection.docx` | Final portfolio reflection journal. |
-| `CS 405 Project Two Presentation.pptx` | PowerPoint presentation of final project. |
 
 ## Course Overview
 
